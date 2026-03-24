@@ -23,4 +23,4 @@ Le test permet de :
 
 ## 📸 Résultat
 
-![Test Result](image.png)
+![Test Result](target/image.png)
