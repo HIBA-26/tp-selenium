@@ -21,6 +21,3 @@ Le test permet de :
 2. Le navigateur s’ouvre automatiquement
 3. Le test s’exécute
 
-## 📸 Résultat
-
-![Test Result](target/image.png)
